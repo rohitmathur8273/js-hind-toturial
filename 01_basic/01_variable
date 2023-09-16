@@ -1,0 +1,13 @@
+const empId = 12222
+let empName = "rohit"
+var empCity = "jaipur"
+empEmail = "rohitmathur8273@gmail.com"
+empji
+
+
+empId = 12
+empName ="mathur"
+empCity = "amanpur"
+empEmail = "mathur8273@gmail.com"
+
+console.table([empId,empName,empCity, empEmail])
